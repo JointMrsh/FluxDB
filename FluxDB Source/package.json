@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "name": "fluxdb.js",
+  "version": "1.0.0",
+  "main": "FluxDB.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marshall G.",
+  "license": "ISC",
+  "description": ""
+}
