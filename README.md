@@ -1,6 +1,6 @@
 # FluxDB
 
-FluxDB is a closed-source JavaScript NPM Package database manager. It is easy to use and a simple library.
+FluxDB is a open-source JavaScript NPM Package database manager. It is easy to use and a simple library.
 
 As mentioned below, it is in early development release solely for motivation for the only developer of this project, but to get feedback from whoever decides to use it.
 
